@@ -16,26 +16,46 @@
 
 ---
 
-## 👨‍💻 About Me
+# Mayank
 
-```python
-class MayankTiwari:
-    def __init__(self):
-        self.name     = "Mayank Tiwari"
-        self.role     = "Data Scientist & ML Engineer"
-        self.location = "India 🇮🇳"
-        self.passion  = ["AI/ML", "Deep Learning", "Data Storytelling"]
+**Data Analytics | Machine Learning | Artificial Intelligence**
 
-    def current_focus(self):
-        return [
-            "🔭 Building end-to-end ML pipelines",
-            "🌱 Exploring LLMs & Generative AI",
-            "📊 Solving real-world problems with data",
-            "🤝 Open to collaborate on ML projects"
-        ]
+MCA candidate specializing in Data Analytics, AI & ML. I focus on turning raw data into reliable insights and building practical machine learning solutions.
 
-    def daily_routine(self):
-        return "Coffee ☕ → Code 💻 → Data 📊 → Repeat 🔄"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-me = MayankTiwari()
-print(me.daily_routine())
+---
+
+### About
+
+- MCA (Data Analytics, AI & ML), Vivekananda Global University, Jaipur (expected 2027)
+- BCA graduate (2025)
+- Data Analytics Intern, UptoSkills
+- Based in Jaipur, India. Open to remote opportunities
+- Career goal: Data Scientist / AI Engineer
+
+### Technical Skills
+
+| Area | Tools |
+|------|-------|
+| Languages | Python, SQL |
+| Data Analysis | Pandas, NumPy, Excel |
+| Machine Learning | Scikit-learn |
+| Visualization | Matplotlib, Seaborn, Power BI |
+| Tools | Git, GitHub, Jupyter Notebook |
+
+### Current Focus
+
+- Strengthening fundamentals in statistics and machine learning
+- Building end-to-end data analytics and ML projects
+- Writing clean, documented and reproducible code
+
+### Projects
+
+Repositories with documented analysis, models and results are being added. Pinned projects will appear here.
+
+### Contact
+
+Open to internships, collaborations and entry-level data roles.
+**LinkedIn:** [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN) | **Email:** YOUR_EMAIL
